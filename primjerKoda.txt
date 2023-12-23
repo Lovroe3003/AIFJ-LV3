@@ -1,0 +1,8 @@
+var x = 16 - 4;
+var y = 22 + 11;
+var z = 6 + a;
+const pi = 3.14;
+fun calculate(z){
+    return z / 2;
+}
+#Ovo je nekakav komentar
